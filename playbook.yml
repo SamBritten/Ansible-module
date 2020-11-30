@@ -1,0 +1,6 @@
+---
+- name: ansible module play
+  hosts: all
+  tasks:
+    - debug:
+        msg: "I am playbook.yml"
