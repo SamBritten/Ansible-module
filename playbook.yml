@@ -3,4 +3,4 @@
   hosts: all
   tasks:
     - debug:
-        msg: "I am playbook.yml"
+        msg: "I am playbook.yml version 2"
